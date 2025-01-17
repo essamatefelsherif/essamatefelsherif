@@ -18,7 +18,7 @@
 <p align="center">
 	<em>
 		This is ME ⋯ <strong>Essam A. El-Sherif</strong> ⋯ an ancient egyptian <strong>Programmer</strong> since the early days of PC's<br>
-		A long journey from	<strong>FORTRAN</strong> and <strong>BASIC</strong> under <strong>DOS</strong> up to <strong>Back End Development</strong> under <strong>Linux</strong> as a developer and instructor<br>
+		A long journey from <strong>FORTRAN</strong> and <strong>BASIC</strong> under <strong>DOS</strong> up to <strong>Back End Development</strong> under <strong>Linux</strong><br>
 		Learning while HOPING & HUSTLING!!!
 	</em> 
 </p>
