@@ -1,5 +1,6 @@
 <p align="center">
-	<img src="img/pharaoh-01_2.png" width="100">
+<a href="https://essamatefelsherif.github.io/whoami/" traget="_blank" title="Essam A. El-Sherif">	
+<img src="img/pharaoh-01_2.png" width="100"></a>
 </p>
 <h2 align="center"><a href="https://essamatefelsherif.github.io/whoami/" traget="_blank" title="Essam A. El-Sherif">Essam A. El-Sherif</a></h2>
 <p align="center">
