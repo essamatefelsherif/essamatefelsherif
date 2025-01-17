@@ -17,7 +17,7 @@
 
 <p align="center">
 	<em>
-		This is ME ⋯ Essam A. El-Sherif ⋯ an ancient egyptian <strong>Programmer</strong> since the early days of PC's<br>
+		This is ME ⋯ <strong>Essam A. El-Sherif</strong> ⋯ an ancient egyptian <strong>Programmer</strong> since the early days of PC's<br>
 		A long journey from	<strong>FORTRAN</strong> and <strong>BASIC</strong> under <strong>DOS</strong> up to <strong>Back End Development</strong> under <strong>Linux</strong> as a developer and instructor<br>
 		Learning while HOPING & HUSTLING!!!
 	</em> 
@@ -33,7 +33,7 @@
 			<ul>
 				<li><a href="https://drive.google.com/file/d/18T6pIXVBTDcDmszMjZdXTO4ecYtlfol-/view?usp=sharing" target="_blank" title="Professional Certificate in Computer Systems and Applications">Professional Certificate in Computer Systems and Applications</a>, 1997 - 1998</li>
 				<li><a href="https://www.aucegypt.edu/" target="_blank" title="The American University in Cairo">The American University in Cairo</a>, Egypt</li>
-			<li>Algorithms & Data Structures ⋯ Programming ⋯ Operating Systems ⋯ DBMS ⋯ Networking</li>				
+				<li>Algorithms & Data Structures ⋯ Programming ⋯ Operating Systems ⋯ DBMS ⋯ Networking</li>				
 			</ul>
 		</td>
 	</tr>
@@ -44,7 +44,7 @@
 			<ul>
 				<li><a href="https://drive.google.com/file/d/1onegtIbHrPC5yssy63dOzD2or51M0XDC/view?usp=sharing" target="_blank" title="B.Sc. Degree in Civil Engineering">B.Sc. Degree in Civil Engineering</a>, 1981 - 1986</li>
 				<li><a href="https://eng.asu.edu.eg/" target="_blank" title="Faculty of Engineering, Ain Shams University">Faculty of Engineering, Ain Shams University</a>, Cairo, Egypt</li>
-			<li>Geomatics Engineering ⋯ Computer Methods in Structural Analysis ⋯ FORTRAN ⋯ Programming</li>			
+				<li>Geomatics Engineering ⋯ Computer Methods in Structural Analysis ⋯ FORTRAN ⋯ Programming</li>			
 			</ul>
 		</td>
 	</tr>
@@ -53,20 +53,22 @@
 ## <img src="img/cup-01_2.png" width="20"> [Certificates]() <img src="img/cup-01_2.png" width="20">
 
 <p align="center">
-	<a href="https://verify.openedg.org/?id=QkWA.U0Ez.WPGc" target="_blank" title="C"><img src="img/badge-cla.png"></a>
-	<a href="https://verify.openedg.org/?id=BEw4.Ht0J.Fhcp" target="_blank" title="C"><img src="img/badge-clp.png"></a>
-	<a href="https://verify.openedg.org/?id=PmmQ.F2o4.LgbX" target="_blank" title="C++"><img src="img/badge-cpa.png"></a>
-	<a href="https://verify.openedg.org/?id=Eg6b.jwis.avtg" target="_blank" title="C++"><img src="img/badge-cpp.png"></a>
-	<a href="https://verify.openedg.org/?id=WG5b.vCsP.ktUR" target="_blank" title="JavaScript"><img src="img/badge-jsa.png"></a>
-	<a href="https://www.credly.com/badges/5aa5a543-c308-4e5a-b907-b63997bf4a33/public_url" target="_blank" title="MongoDB"><img src="img/badge-mongodb-dev.png"></a>
-	<a href="https://www.io4pm.org/badges/15615627122111" target="_blank" title="Project Management"><img src="img/badge-io4pm-aprm.png"></a>
-	<a href="https://www.brainmeasures.com/Individual/ViewSoftCertificate.aspx?utestid=169070" target="_blank" title="Git"><img src="img/badge-bm-git.png"></a>
+	<a href="https://verify.openedg.org/?id=QkWA.U0Ez.WPGc" target="_blank" title="C Certified Associate Programmer (CLA)"><img src="img/badge-cla.png"></a>
+	<a href="https://verify.openedg.org/?id=BEw4.Ht0J.Fhcp" target="_blank" title="C Certified Professional Programmer (CLP)"><img src="img/badge-clp.png"></a>
+	<a href="https://verify.openedg.org/?id=PmmQ.F2o4.LgbX" target="_blank" title="C++ Certified Associate Programmer (CPA)"><img src="img/badge-cpa.png"></a>
+	<a href="https://verify.openedg.org/?id=Eg6b.jwis.avtg" target="_blank" title="C++ Certified Professional Programmer (CPP)"><img src="img/badge-cpp.png"></a>
+</p>
+<p align="center">
+	<a href="https://verify.openedg.org/?id=WG5b.vCsP.ktUR" target="_blank" title="JavaScript Certified Associate Programmer (JSA)"><img src="img/badge-jsa.png"></a>
+	<a href="https://www.credly.com/badges/5aa5a543-c308-4e5a-b907-b63997bf4a33/public_url" target="_blank" title="MongoDB Certified Associate Developer"><img src="img/badge-mongodb-dev.png"></a>
+	<a href="https://www.io4pm.org/badges/15615627122111" target="_blank" title="Accredited Project Manager APRM™"><img src="img/badge-io4pm-aprm.png"></a>
+	<a href="https://www.brainmeasures.com/Individual/ViewSoftCertificate.aspx?utestid=169070" target="_blank" title="Git Test Certificate"><img src="img/badge-bm-git.png"></a>
 </p>
 
 ## <img src="img/flower-03_2.png" width="20"> [Skills]() <img src="img/flower-03_2.png" width="20">
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" title="Skills">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,java,mysql,postgres,mongodb,nodejs,express,npm,html,css,react,git,github,md&perline=9" />
   </a>
 </p>
